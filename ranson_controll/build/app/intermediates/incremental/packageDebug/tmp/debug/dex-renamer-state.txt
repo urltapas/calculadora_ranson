@@ -1,0 +1,4 @@
+#Sun Dec 10 20:34:02 BRT 2023
+base.0=/home/urltapas/Development/ranson_controll/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
